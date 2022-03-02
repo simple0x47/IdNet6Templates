@@ -1,0 +1,16 @@
+{
+  "author": "Brock Allen, Dominick Baier",
+  "classifications": [
+    "Web",
+    "IdNet6"
+  ],
+  "name": "IdNet6 Quickstart UI (UI assets only)",
+  "identity": "IdNet6.UI",
+  "groupIdentity": "IdNet6.UI",
+  "shortName": "is4ui",
+  "tags": {
+    "language": "C#"
+  },
+  "sourceName": "IdNet6.Quickstart.UI",
+  "preferNameDirectory": "true"
+}

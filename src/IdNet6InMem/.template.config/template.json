@@ -1,0 +1,19 @@
+{
+  "author": "Brock Allen, Dominick Baier",
+  "classifications": [
+    "Web",
+    "IdNet6"
+  ],
+  "name": "IdNet6 with In-Memory Stores and Test Users",
+  "identity": "IdNet6.InMem",
+  "groupIdentity": "IdNet6.InMem",
+  "shortName": "is4inmem",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  
+  "sourceName": "IdNet6InMem",
+  "preferNameDirectory": "true",
+  "primaryOutputs": [ { "path": "IdNet6InMem.csproj" } ]
+}

@@ -1,0 +1,19 @@
+{
+  "author": "Brock Allen, Dominick Baier",
+  "classifications": [
+    "Web",
+    "IdNet6"
+  ],
+  "name": "IdNet6 Empty",
+  "identity": "IdNet6.Empty",
+  "groupIdentity": "IdNet6.Empty",
+  "shortName": "is4empty",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+
+  "sourceName": "IdNet6Empty",
+  "preferNameDirectory": "true",
+  "primaryOutputs": [ { "path": "IdNet6Empty.csproj" } ]
+}

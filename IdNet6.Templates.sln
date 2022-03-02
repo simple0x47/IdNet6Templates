@@ -13,8 +13,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdNet6AspNetIdentity", "src
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdNet6EntityFramework", "src\IdNet6EntityFramework\IdNet6EntityFramework.csproj", "{46000F46-B039-49F3-AACD-42E4FBC11E94}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdNet6Admin", "src\IdNet6Admin\IdNet6Admin.csproj", "{5C903922-2014-40F6-920A-2E02E0D7F5E4}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,10 +35,6 @@ Global
 		{46000F46-B039-49F3-AACD-42E4FBC11E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46000F46-B039-49F3-AACD-42E4FBC11E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46000F46-B039-49F3-AACD-42E4FBC11E94}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5C903922-2014-40F6-920A-2E02E0D7F5E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5C903922-2014-40F6-920A-2E02E0D7F5E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5C903922-2014-40F6-920A-2E02E0D7F5E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5C903922-2014-40F6-920A-2E02E0D7F5E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,7 +44,6 @@ Global
 		{6CEEA2E8-C482-4197-93D7-2AC94F99D0D0} = {5B4906FF-64CC-4A42-A145-221F083EE165}
 		{91FA2AC8-1DF5-4A0F-B709-8EFF32B4FA08} = {5B4906FF-64CC-4A42-A145-221F083EE165}
 		{46000F46-B039-49F3-AACD-42E4FBC11E94} = {5B4906FF-64CC-4A42-A145-221F083EE165}
-		{5C903922-2014-40F6-920A-2E02E0D7F5E4} = {5B4906FF-64CC-4A42-A145-221F083EE165}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {32B6CD87-BBD9-4A01-82E9-BA1579E4A083}
